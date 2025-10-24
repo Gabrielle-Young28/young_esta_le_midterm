@@ -13,6 +13,6 @@ Open index.html in the browser of your choice.
 ## History
 Create Merge Conflict
 ## Credits 🤗
-Gabby, Keisha, and Ann
+Gabby, Keisha, and An An
 ## License
 MIT License
